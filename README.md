@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<!--
-**ChrissTsk/ChrissTsk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 I'm Chris from Greece, 23 years old, IT Applications Technician.
 
 I design and build websites, applications or whatever idea pops into my head, chances are I’ll build it and ship it.
